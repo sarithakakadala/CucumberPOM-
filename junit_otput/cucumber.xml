@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="22.148333">
+<testcase classname="Amazom Login Feature" name="Validate Amazon Home Page Test" time="22.148333">
+<system-out><![CDATA[Given user is already on Login Page.........................................passed
+When title of login page is Free CRM........................................passed
+Then user enters username and password......................................passed
+Then user is on home page...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
